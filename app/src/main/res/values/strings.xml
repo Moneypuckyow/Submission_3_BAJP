@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movies">MOVIES</string>
+    <string name="tv_shows">TV SHOWS</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="moviesnshows">Movies &amp; Shows</string>
+    <string name="genre">Genre</string>
+    <string name="space">||</string>
+    <string name="duration">Duration</string>
+    <string name="detail">Detail</string>
+    <string name="made_by">Made By</string>
+    <string name="alexlianardo">Alex Lianardo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="undo">UNDO</string>
+    <string name="ok">OK</string>
+</resources>
